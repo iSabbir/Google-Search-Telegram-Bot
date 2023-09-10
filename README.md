@@ -41,8 +41,6 @@ Usage
 
 3. Run the bot:
 
-  ```bash
-   python main.py
 
 # Configuration
 RESULTS_PER_PAGE = 5  # Number of search results to display per page
@@ -54,3 +52,9 @@ admin_ids = [123456, 789012]  # List of admin IDs who have access to certain com
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')  # Your Google API key
 GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')  # Your Google Custom Search Engine ID
 
+## 📚 Usage
+
+1. Start a chat with your bot on Telegram.
+2. To search for text: `/search <query>`.
+3. To search for images: `/image <query>`.
+4. The bot will promptly display the results.
