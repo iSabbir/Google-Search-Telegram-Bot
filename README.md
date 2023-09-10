@@ -8,7 +8,7 @@ A Telegram bot built with Python and the aiogram library to perform Google searc
 [![Python Version](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/release/python-390/)
 
 <!-- Add a demo GIF or image, if applicable -->
-![Demo](demo.gif)
+![Demo](https://media.tenor.com/b83nxWOkpOwAAAAC/google-android-robot.gif)
 
 ## Features
 
