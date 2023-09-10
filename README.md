@@ -44,4 +44,13 @@ Usage
   ```bash
    python main.py
 
+# Configuration
+RESULTS_PER_PAGE = 5  # Number of search results to display per page
+
+user_cooldowns = {}  # Dictionary to manage user cooldowns
+
+admin_ids = [123456, 789012]  # List of admin IDs who have access to certain commands
+
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')  # Your Google API key
+GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')  # Your Google Custom Search Engine ID
 
