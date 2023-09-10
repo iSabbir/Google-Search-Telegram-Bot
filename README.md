@@ -42,4 +42,6 @@ Usage
 3. Run the bot:
 
   ```bash
-   python main.py''
+   python main.py
+
+
