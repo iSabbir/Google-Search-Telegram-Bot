@@ -60,3 +60,5 @@ GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')  # Your Google Custom Search Engine I
 2. To search for text: `/search <query>`.
 3. To search for images: `/image <query>`.
 4. The bot will promptly display the results.
+
+
