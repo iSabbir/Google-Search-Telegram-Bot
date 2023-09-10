@@ -42,20 +42,4 @@ Usage
 3. Run the bot:
 
   ```bash
-   python main.py
-
-
-
-
-## Configuration
-You can configure the bot by modifying the following variables in your_script_name.py:
-
-'RESULTS_PER_PAGE': The number of search results to display per page.
-'user_cooldowns': A dictionary to manage user cooldowns.
-'admin_ids': A list of admin IDs who have access to certain commands.
-'GOOGLE_API_KEY': Your Google API key.
-'GOOGLE_CSE_ID': Your Google Custom Search Engine ID.
-
-
-License
-This project is licensed under the MIT License.
+   python main.py''
