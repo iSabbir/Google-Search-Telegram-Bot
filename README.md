@@ -42,12 +42,12 @@ Usage
 3. Run the bot:
 
   ```bash
-   python main.py
+   python main.py.
 
 
 
 
-Configuration
+# Configuration
 You can configure the bot by modifying the following variables in your_script_name.py:
 
 'RESULTS_PER_PAGE': The number of search results to display per page.
