@@ -41,6 +41,8 @@ Usage
 
 3. Run the bot:
 
+   ```bash
+   python main.py
 
 # Configuration
 RESULTS_PER_PAGE = 5  # Number of search results to display per page
